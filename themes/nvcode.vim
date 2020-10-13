@@ -4,7 +4,8 @@ let g:nvcode_terminal_italics=1
 let g:nvcode_termcolors=256
 
 syntax on
-colorscheme nvcode
+colorscheme gruvbox
+" colorscheme nvcode
 
 
 " checks if your terminal has 24-bit color support
