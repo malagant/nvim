@@ -29,7 +29,7 @@ bash <(curl -s https://raw.githubusercontent.com/malagant/nvim/master/utils/inst
 
   sudo mv /tmp/nvim.appimage /usr/local/bin/nvim
 
-  chmod +x /usr/local/nvim
+  chmod +x /usr/local/bin/nvim
   ```
 
 - Arch
