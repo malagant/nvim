@@ -172,9 +172,12 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Plug 'preservim/nerdcommenter'
     " Plug 'brooth/far.vim'
     " Plug 'atishay/far.vim'
+    " RUBY
     " Plug 'romgrk/lib.kom'
     " Plug 'brooth/far.vim'
     " Debugging
+    " RUBY
+    Plug 'vim-ruby/vim-ruby'
   endif
 
 call plug#end()
