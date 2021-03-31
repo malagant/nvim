@@ -7,7 +7,10 @@ if empty(glob('~/.config/nvim/autoload/plug.vim'))
 endif
 
 call plug#begin('~/.config/nvim/autoload/plugged')
-
+    " Wakatime
+    Plug 'wakatime/vim-wakatime'
+    " Dash
+    Plug 'rizzatti/dash.vim'
     " Better Comments
     Plug 'tpope/vim-commentary'
     " Change dates fast
